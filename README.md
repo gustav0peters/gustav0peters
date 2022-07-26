@@ -1,8 +1,6 @@
 ### Eai pessoal, eu sou o Gustavo Peters 👋
 
 - 💡 Hoje trabalho como Infratructure Delivery na AWS
-- 📚 Atualmente estou aprendendo JavaScript
-- 🎥 Sou Youtuber faço conteúdos de programação e tecnologia!
 <div>
   <a href="https://github.com/gustav0peters">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustav0peters&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
