@@ -1,6 +1,6 @@
 ### Eai pessoal, eu sou o Gustavo Peters 👋
 
-- 💡 Hoje trabalho como Data Center Technician na AWS
+- 💡 Hoje trabalho como Infratructure Delivery na AWS
 - 📚 Atualmente estou aprendendo JavaScript
 - 🎥 Sou Youtuber faço conteúdos de programação e tecnologia!
 <div>
